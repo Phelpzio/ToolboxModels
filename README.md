@@ -4,6 +4,8 @@ If you are wondering why the colors look different on the actual model pages, it
 
 If you insert them into a modern Roblox Studio version, they will become corrupted, you will have to insert the model into an older version of Roblox Studio, preferably the 2007-2008 versions, then export the model into the modern version.
 
+Models from 2006 are coming soon!
+
 If you want to know more, go to https://toolbox-models.fandom.com
 
 A reflection of my other Toolbox repository at https://archive.org/details/toolboxmodels
